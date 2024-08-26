@@ -22,7 +22,6 @@ function App() {
         <Route path="/properties" element={<PropertiesPage />} />
         <Route path="/agent" element={<AgentDashboard />} />
         <Route path="/admin" element={<AdminDashboard />} />
-        <Route path="/client-details" element={<ClientDetails />} />
         <Route path="/transactions" element={<TransactionTable />} />
       </Routes>
     </BrowserRouter>
