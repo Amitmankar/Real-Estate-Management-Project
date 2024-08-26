@@ -8,7 +8,6 @@ import Login from './login';
 import Signup from './signup';
 import PropertiesPage from './Properties';
 import TransactionTable from './Transactions';
-import ClientDetails from './Clientdetails';
 import { BrowserRouter, Route,Routes } from 'react-router-dom';
 
 function App() {
